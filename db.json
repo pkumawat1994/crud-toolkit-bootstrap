@@ -1,0 +1,20 @@
+{
+  "employee": [
+    {
+      "name": "param",
+      "email": "param@gmail.com",
+      "mobile": "99878965874",
+      "city": "Dewas",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "aaaa",
+      "email": "a@gmail.com",
+      "mobile": "99878965874",
+      "city": "Indore",
+      "password": "123456",
+      "id": 2
+    }
+  ]
+}
